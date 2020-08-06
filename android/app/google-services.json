@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144548204319",
+    "firebase_url": "https://sipro-45186.firebaseio.com",
+    "project_id": "sipro-45186",
+    "storage_bucket": "sipro-45186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144548204319:android:88eb6026bf8bff6bbdaa2a",
+        "android_client_info": {
+          "package_name": "com.issuecon.flutterappsiprorev0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144548204319-ft3md90kbj2poh5u0t4uj935d72tjgqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsDxPf_lmfDS65Lx8y8qQ2q6K13xne_Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144548204319-ft3md90kbj2poh5u0t4uj935d72tjgqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
