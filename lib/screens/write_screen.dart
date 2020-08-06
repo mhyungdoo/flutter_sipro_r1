@@ -10,7 +10,6 @@ class WriteScreen extends StatefulWidget {
   @override
   _WriteScreenState createState() => _WriteScreenState();
 
-
 }
 
 
